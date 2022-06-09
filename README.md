@@ -88,6 +88,8 @@ VB=5.39V
 
 6.VIDEO
 
+https://www.youtube.com/watch?v=5vNVS3oNTzo
+
 
 7.CONCLUSIONES:
 
