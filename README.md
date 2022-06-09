@@ -9,7 +9,7 @@
  
 1.OBJETIVOS
 
-1.1 Objetivo General.
+1.1 Objetivo General
 
 Definir las características y pasos empleados en el método de las tensiones (voltajes) en los nodos, para aplicarlos en la resolución y cálculos de los ejercicios planteados, por medio del uso adecuado de la ley de ohm y especialmente de la ley de kirchhoff de corrientes en el planteamiento de ecuaciones.
 
@@ -29,11 +29,11 @@ Link del mapa mental: https://gitmind.com/app/doc/15e11351016
 
 - Circuito armado en el simulador:
 
-![image](https://user-images.githubusercontent.com/105684550/172760797-cfa7a816-f406-48c6-a186-1f695bc28884.png)
+![image](https://user-images.githubusercontent.com/105684550/172763168-27a933b0-65ad-423a-b430-c2252338c780.png)
 
 - Voltajes en los nodos A y B:
 
-![image](https://user-images.githubusercontent.com/105684550/172760819-53425e37-4e9d-4b94-a4ba-b4401c5819f2.png)
+![image](https://user-images.githubusercontent.com/105684550/172763116-ebbe61d4-23c1-4e05-bc29-7d74897da5cf.png)
 
 4.MATERIALES Y EQUIPOS REQUERIDOS
 
@@ -41,7 +41,7 @@ Link del mapa mental: https://gitmind.com/app/doc/15e11351016
 
 5.RESOLUCIÓN
 
-![image](https://user-images.githubusercontent.com/105684550/172760335-72329996-5973-48fc-aeee-9be45233fb87.png)
+![image](https://user-images.githubusercontent.com/105684550/172763138-b37df56f-bef3-4bd0-a4c0-a15fe852d117.png)
 
 - Nodo A: I1=I2+I3
 
