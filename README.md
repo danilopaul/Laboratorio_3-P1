@@ -67,11 +67,13 @@ VA/2200-VB/2200-VB/1500-VB/3900=-10/1500
 
 VA/2200-(197×VB)/143000=-10/1500          →        Ecuación N°2
 
-Resolvemos el sistema de ecuaciones 1 y 2:
+- Resolvemos el sistema de ecuaciones 1 y 2:
 
 VA=1.67V
 
 VB=5.39V
+
+- Los voltajes en los donos A, B y C son los siguientes: 
 
 ![image](https://user-images.githubusercontent.com/105684550/172765792-3cee9382-8d9a-4e35-927e-216a43d1b27a.png)
 
