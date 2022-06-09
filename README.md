@@ -73,12 +73,23 @@ VA=1.67V
 
 VB=5.39V
 
+![image](https://user-images.githubusercontent.com/105684550/172765792-3cee9382-8d9a-4e35-927e-216a43d1b27a.png)
+
+- Cálculo de error de medición en el nodo A:
+
+%error=(((1.66V-1.67V))/1.66V)×100=0.60%
+
+- Cálculo de error de medición en el nodo B:
+
+%error=(((5.38V-5.39V))/5.38V)×100=0.19%
+
+
 6.VIDEO
 
 
 7.CONCLUSIONES:
 
-Los nodos principales que se encuentran en circuito son 3 de los cuales en nodo Vc es nuestro nodod de referencia, puesto que este nodo se encuentran mas de dos elementos conectados, ademas de ser el que se encuentra mas cerca del polo negativo.
+*Los nodos principales que se encuentran en circuito son 3 de los cuales en nodo Vc es nuestro nodod de referencia, puesto que este nodo se encuentran mas de dos elementos conectados, ademas de ser el que se encuentra mas cerca del polo negativo.*
 
 Para medir el voltaje  de los nodos que fueron identificados, se los debe medir en paralelo y con ello obtener los valores del circuito buscados, ademas el nodo C se asume que es tierra, con ello se puede identificar donde se debe colocar el multimetro.
 
