@@ -89,11 +89,11 @@ VB=5.39V
 
 7.CONCLUSIONES:
 
-*Los nodos principales que se encuentran en circuito son 3 de los cuales en nodo Vc es nuestro nodod de referencia, puesto que este nodo se encuentran mas de dos elementos conectados, ademas de ser el que se encuentra mas cerca del polo negativo.*
+- Los nodos principales que se encuentran en circuito son 3 de los cuales en nodo Vc es nuestro nodod de referencia, puesto que este nodo se encuentran mas de dos elementos conectados, ademas de ser el que se encuentra mas cerca del polo negativo.
 
-Para medir el voltaje  de los nodos que fueron identificados, se los debe medir en paralelo y con ello obtener los valores del circuito buscados, ademas el nodo C se asume que es tierra, con ello se puede identificar donde se debe colocar el multimetro.
+- Para medir el voltaje  de los nodos que fueron identificados, se los debe medir en paralelo y con ello obtener los valores del circuito buscados, ademas el nodo C se asume que es tierra, con ello se puede identificar donde se debe colocar el multimetro.
 
-Los calculos realizados se lograron obtner mediante un analisis entre las leyes de Kirchhoff y la ley de Ohm y con ellas calcular las ecuaciones necesarias para obtner el valor del V1 y V2.
+- Los calculos realizados se lograron obtner mediante un analisis entre las leyes de Kirchhoff y la ley de Ohm y con ellas calcular las ecuaciones necesarias para obtner el valor del V1 y V2.
 
 8.BIBLIOGRAFÍA
 
